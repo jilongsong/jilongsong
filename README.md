@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [songjilong]
+# Hi there 👋, I'm songjilong
 A passionate Full-Stack Developer with a strong focus on Frontend Development. I enjoy creating responsive and user-friendly web applications using modern technologies.
 
 ---
@@ -49,15 +49,18 @@ A passionate Full-Stack Developer with a strong focus on Frontend Development. I
 
 ## Projects
 
-### [Project Name 1](https://link-to-project1)
-- **Description:** A brief description of the project.
-- **Technologies Used:** HTML5, CSS3, JavaScript, React, TailwindCSS
+### Text-to-image
+- **Description:** A Vincentian diagram project based on SD model.
+- **Technologies Used:** HTML5, CSS3, JavaScript, React, Nextjs13 TailwindCSS
+- ![cc0b5c285cb61fd799b89cda41974185](https://github.com/user-attachments/assets/402037e5-56e1-49aa-b5b3-aaeed6b202d3)
+- ![c135ae536edb9f4a6d2ca335082f56c7](https://github.com/user-attachments/assets/fa1c364d-f5aa-4378-8026-bb17c5a1d696)
 
 ### [Project Name 2](https://link-to-project2)
 - **Description:** Another project you've worked on.
 - **Technologies Used:** TypeScript, Vue.js, Node.js, NestJS
 
----
+
+
 
 ## Achievements & Certifications
 
