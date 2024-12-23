@@ -9,8 +9,8 @@ A passionate Full-Stack Developer with a strong focus on Frontend Development. I
 - 🌱 I’m currently learning the latest trends in web development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to web development!
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: He/Him or She/Her (choose as appropriate)
+- 📫 How to reach me: [songjilong@threebody.xyz](mailto:your.email@example.com)
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love exploring new technologies and solving complex problems!
 
 ---
@@ -74,10 +74,8 @@ A passionate Full-Stack Developer with a strong focus on Frontend Development. I
 
 ## Contact Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [@jilongsong](https://github.com/jilongsong)
+- Email: [songjilong@threebody.xyz](mailto:your.email@example.com)
 
 ---
 
