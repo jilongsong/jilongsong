@@ -69,12 +69,6 @@ A passionate Full-Stack Developer with a strong focus on Frontend Development. I
 
 ---
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## Contact Me
 
 - GitHub: [@jilongsong](https://github.com/jilongsong)
