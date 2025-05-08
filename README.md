@@ -46,22 +46,6 @@ A passionate Full-Stack Developer with a strong focus on Frontend Development. I
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
 ---
-
-## Projects
-
-### Text-to-image
-- **Description:** A Vincentian diagram project based on SD model.
-- **Technologies Used:** HTML5, CSS3, JavaScript, React, Nextjs13 TailwindCSS
-- **Project display：**
-  ![c135ae536edb9f4a6d2ca335082f56c7](https://github.com/user-attachments/assets/fa1c364d-f5aa-4378-8026-bb17c5a1d696)
-
-### [Project Name 2](https://link-to-project2)
-- **Description:** Another project you've worked on.
-- **Technologies Used:** TypeScript, Vue.js, Node.js, NestJS
-
-
-
-
 ## Achievements & Certifications
 
 - **Certification Name** - Issuing Organization (Year)
